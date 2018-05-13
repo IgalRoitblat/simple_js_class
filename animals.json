@@ -1,0 +1,40 @@
+{
+    "animals": [
+        {
+            "name": "Tiger",
+            "food": "bunnies",
+            "location": "1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Royal_Bengal_Tiger_at_Kanha_National_Park.jpg/440px-Royal_Bengal_Tiger_at_Kanha_National_Park.jpg"
+        },
+        {
+            "name": "Horse",
+            "food": "grass",
+            "location": "2",
+            "image": "http://www.horsechannel.com/images/blog/0a9ecb13-b72b-4bf4-b7d1-c9bc5f04a93b.jpg"
+        },
+        {
+            "name": "Lion",
+            "food": "rats",
+            "location": "3",
+            "image": "https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/lion-male-roar.adapt.945.1.jpg"
+        },
+        {
+            "name": "Elephant",
+            "food": "penauts",
+            "location": "4",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/440px-African_Bush_Elephant.jpg"
+        },
+        {
+            "name": "Monkey",
+            "food": "banana",
+            "location": "5",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Macaca_sinica_-_01.jpg/440px-Macaca_sinica_-_01.jpg"
+        },
+        {
+            "name": "Fish",
+            "food": "fish food",
+            "location": "6",
+            "image": "https://d2kwjcq8j5htsz.cloudfront.net/1970/01/30153329/clownfish.jpg"
+        }
+    ]
+}

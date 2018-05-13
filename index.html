@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Main Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+</head>
+<body>
+	<h1>Zoo</h1>
+	<div id="cart_container">
+	</div>
+	<main>
+		<div class="container">
+			<div class="row">
+				<div class="cage" data-location="1"></div>
+				<div class="cage" data-location="2"></div>
+				<div class="cage" data-location="3"></div>
+				<div class="cage" data-location="4"></div>
+			</div>
+			<div class="row">
+				<div class="cage" data-location="5"></div>
+				<div class="cage" data-location="6"></div>
+			</div>
+			<div class="row">
+				<div class="cage" data-location="7"></div>
+				<div class="cage" data-location="8"></div>
+			</div>
+			<div class="row">
+				<div class="cage" data-location="9"></div>
+				<div class="cage" data-location="10"></div>
+			</div>
+		</div>
+	</main>
+	<div class="data">
+		<form>
+			<label>
+				<span>Name:</span>
+				<input type="text" name="name">
+			</label>
+			<label>
+				<span>Food:</span>
+				<input type="text" name="food">
+			</label>
+			<label>
+				<span>Image:</span>
+				<input type="text" name="image">
+			</label>
+			<input type="submit" name="submit">
+		</form>
+		<div id="preview">
+			
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="Scripts/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="Scripts/Zoo.js"></script>
+<script type="text/javascript" src="Scripts/script.js"></script>
+</html>
